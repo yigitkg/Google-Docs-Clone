@@ -1,5 +1,5 @@
+//layout.tsx
 import { Inter as FontSans } from "next/font/google";
-
 import { cn } from "@/lib/utils";
 import "./globals.css";
 import { Metadata } from "next";
